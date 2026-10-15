@@ -1,0 +1,37 @@
+﻿id,titulo,categoria,conteudo,observacao
+DOC001,Portal do aluno,TI,"Para acessar o portal do aluno, use seu login institucional. Em caso de falha, solicite redefinição de senha ao suporte de TI.",Base simulada para projeto acadêmico
+DOC002,E-mail institucional,TI,"Problemas de autenticação de e-mail devem ser registrados no suporte com data, horário e descrição do erro.",Base simulada para projeto acadêmico
+DOC003,Laboratório virtual,TI,"Para falhas no laboratório virtual, informe turma, disciplina, horário e mensagem exibida.",Base simulada para projeto acadêmico
+DOC004,Wi-Fi do campus,TI,"Falhas de Wi-Fi devem ser reportadas com bloco, horário e dispositivos afetados.",Base simulada para projeto acadêmico
+DOC005,Projetores,TI,"Em caso de projetor sem imagem, reporte sala e horário; não abra o equipamento.",Base simulada para projeto acadêmico
+DOC006,Computadores,TI,"Para lentidão em computadores, descreva aplicativo, horário e mensagem de erro.",Base simulada para projeto acadêmico
+DOC007,Ar-condicionado,Manutenção,Ruídos e falhas no ar-condicionado devem ser registrados com identificação da sala e horário.,Base simulada para projeto acadêmico
+DOC008,Iluminação,Manutenção,Informe bloco e sala ao registrar lâmpada queimada. Não manipule instalações elétricas.,Base simulada para projeto acadêmico
+DOC009,Vazamentos,Manutenção,Vazamentos devem ser comunicados à manutenção predial e áreas afetadas devem ser isoladas quando houver risco.,Base simulada para projeto acadêmico
+DOC010,Instalações elétricas,Manutenção,"Faíscas, fumaça ou cheiro de queimado exigem afastamento imediato e acionamento de equipe habilitada.",Base simulada para projeto acadêmico
+DOC011,Portas e fechaduras,Manutenção,Portas danificadas devem ser reportadas com local e condições observadas.,Base simulada para projeto acadêmico
+DOC012,Elevadores,Manutenção,"Se houver pessoa presa no elevador, acione a equipe de emergência e não tente abrir portas à força.",Base simulada para projeto acadêmico
+DOC013,Declaração de matrícula,Secretaria,A declaração de matrícula pode ser solicitada à secretaria acadêmica mediante identificação do estudante.,Base simulada para projeto acadêmico
+DOC014,Histórico escolar,Secretaria,Problemas com histórico escolar devem ser comunicados à secretaria com identificação e período letivo.,Base simulada para projeto acadêmico
+DOC015,Rematrícula,Secretaria,Dificuldades no processo de rematrícula devem ser registradas antes do encerramento do prazo institucional.,Base simulada para projeto acadêmico
+DOC016,Boletos e pagamentos,Secretaria,"Em caso de possível cobrança duplicada, encaminhe os comprovantes ao atendimento financeiro.",Base simulada para projeto acadêmico
+DOC017,Colação de grau,Secretaria,Pendências documentais da colação de grau devem ser consultadas com a secretaria.,Base simulada para projeto acadêmico
+DOC018,Dados cadastrais,Secretaria,Pedidos de correção cadastral devem seguir os procedimentos de identificação da instituição.,Base simulada para projeto acadêmico
+DOC019,Renovação de empréstimo,Biblioteca,A renovação de empréstimo depende das regras e da disponibilidade no sistema da biblioteca.,Base simulada para projeto acadêmico
+DOC020,Reservas,Biblioteca,"Se a reserva não aparecer, registre o título, data e identificação do usuário com a biblioteca.",Base simulada para projeto acadêmico
+DOC021,Sistema de empréstimos,Biblioteca,Indisponibilidade geral do sistema de empréstimos deve ser informada à equipe da biblioteca.,Base simulada para projeto acadêmico
+DOC022,Horários,Biblioteca,O horário atualizado de funcionamento deve ser conferido no atendimento da biblioteca.,Base simulada para projeto acadêmico
+DOC023,Pendências,Biblioteca,Divergências em devoluções devem ser verificadas com o comprovante de entrega.,Base simulada para projeto acadêmico
+DOC024,Acervo digital,Biblioteca,Falhas de acesso ao acervo digital devem ser reportadas com título e mensagem exibida.,Base simulada para projeto acadêmico
+DOC025,Controle de acesso,Segurança,Pessoas sem identificação devem ser encaminhadas à portaria para verificação de acesso.,Base simulada para projeto acadêmico
+DOC026,Incêndio,Segurança,"Em caso de fumaça ou alarme de incêndio, siga o plano de abandono e acione os responsáveis pela emergência.",Base simulada para projeto acadêmico
+DOC027,Portões,Segurança,Portões abertos fora do horário devem ser comunicados imediatamente à equipe de segurança.,Base simulada para projeto acadêmico
+DOC028,Achados e perdidos,Segurança,Objetos encontrados devem ser entregues no setor designado pela instituição.,Base simulada para projeto acadêmico
+DOC029,Iluminação externa,Segurança,Pontos com iluminação inadequada devem ser comunicados para avaliação da segurança.,Base simulada para projeto acadêmico
+DOC030,Saídas de emergência,Segurança,Saídas de emergência devem permanecer desobstruídas; comunique imediatamente bloqueios.,Base simulada para projeto acadêmico
+DOC031,Disciplinas optativas,Coordenação,Questões sobre disciplinas optativas devem ser encaminhadas à coordenação do curso.,Base simulada para projeto acadêmico
+DOC032,Grade horária,Coordenação,Inconsistências na grade devem ser reportadas com turma e período.,Base simulada para projeto acadêmico
+DOC033,Ausência de docente,Coordenação,Ausência de professor próxima à avaliação deve ser comunicada à coordenação.,Base simulada para projeto acadêmico
+DOC034,Equivalência,Coordenação,Solicitações de equivalência de disciplina dependem de análise da coordenação.,Base simulada para projeto acadêmico
+DOC035,Conflitos de prova,Coordenação,Conflitos entre avaliações devem ser informados à coordenação com as disciplinas e datas.,Base simulada para projeto acadêmico
+DOC036,Estágio,Coordenação,Dúvidas sobre estágio supervisionado devem ser direcionadas à coordenação do curso.,Base simulada para projeto acadêmico
