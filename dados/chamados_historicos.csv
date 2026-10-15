@@ -1,0 +1,145 @@
+﻿id,texto,categoria,prioridade,horario,reincidencia,tipo_entrada,status
+CH0001,Não consigo entrar no portal do aluno,TI,Média,8,0,imagem,Resolvido
+CH0002,Não consigo entrar no portal do aluno - local: laboratório 3,TI,Média,10,1,texto,Em análise
+CH0003,Não consigo entrar no portal do aluno - registro de atendimento 3,TI,Média,8,0,imagem,Resolvido
+CH0004,Senha do e-mail institucional expirou,TI,Baixa,8,0,texto,Aberto
+CH0005,Senha do e-mail institucional expirou - local: bloco A,TI,Baixa,10,0,imagem,Aberto
+CH0006,Senha do e-mail institucional expirou - registro de atendimento 6,TI,Baixa,21,3,texto,Resolvido
+CH0007,Laboratório virtual indisponível para toda a turma,TI,Alta,21,2,texto,Aberto
+CH0008,Laboratório virtual indisponível para toda a turma - local: campus central,TI,Alta,18,2,voz,Aberto
+CH0009,Laboratório virtual indisponível para toda a turma - registro de atendimento 9,TI,Alta,10,2,texto,Aberto
+CH0010,Rede Wi-Fi caiu no prédio inteiro durante a prova,TI,Crítica,18,0,voz,Resolvido
+CH0011,Rede Wi-Fi caiu no prédio inteiro durante a prova - local: bloco B,TI,Crítica,21,2,texto,Em análise
+CH0012,Rede Wi-Fi caiu no prédio inteiro durante a prova - registro de atendimento 12,TI,Crítica,18,0,voz,Aberto
+CH0013,Computador da sala apresenta lentidão,TI,Baixa,21,2,imagem,Em análise
+CH0014,Computador da sala apresenta lentidão - local: sala 204,TI,Baixa,14,1,imagem,Aberto
+CH0015,Computador da sala apresenta lentidão - registro de atendimento 15,TI,Baixa,8,1,voz,Aberto
+CH0016,Sistema de matrícula apresenta erro para vários estudantes,TI,Alta,10,0,voz,Resolvido
+CH0017,Sistema de matrícula apresenta erro para vários estudantes - local: laboratório 3,TI,Alta,18,2,texto,Resolvido
+CH0018,Sistema de matrícula apresenta erro para vários estudantes - registro de atendimento 18,TI,Alta,14,1,imagem,Resolvido
+CH0019,Projetor da sala não liga e a aula começa em dez minutos,TI,Alta,8,1,imagem,Em análise
+CH0020,Projetor da sala não liga e a aula começa em dez minutos - local: bloco A,TI,Alta,10,1,voz,Resolvido
+CH0021,Projetor da sala não liga e a aula começa em dez minutos - registro de atendimento 21,TI,Alta,14,1,imagem,Resolvido
+CH0022,Sistema de autenticação institucional fora do ar,TI,Crítica,8,1,texto,Resolvido
+CH0023,Sistema de autenticação institucional fora do ar - local: campus central,TI,Crítica,18,2,texto,Aberto
+CH0024,Sistema de autenticação institucional fora do ar - registro de atendimento 24,TI,Crítica,21,2,texto,Em análise
+CH0025,Ar condicionado da sala está fazendo barulho,Manutenção,Baixa,18,3,imagem,Resolvido
+CH0026,Ar condicionado da sala está fazendo barulho - local: bloco B,Manutenção,Baixa,10,2,texto,Aberto
+CH0027,Ar condicionado da sala está fazendo barulho - registro de atendimento 27,Manutenção,Baixa,21,2,imagem,Em análise
+CH0028,Lâmpada da sala de aula está queimada,Manutenção,Baixa,18,3,voz,Aberto
+CH0029,Lâmpada da sala de aula está queimada - local: sala 204,Manutenção,Baixa,10,3,texto,Aberto
+CH0030,Lâmpada da sala de aula está queimada - registro de atendimento 30,Manutenção,Baixa,8,1,imagem,Aberto
+CH0031,Vazamento de água no banheiro do bloco B,Manutenção,Alta,18,0,voz,Resolvido
+CH0032,Vazamento de água no banheiro do bloco B - local: laboratório 3,Manutenção,Alta,21,3,imagem,Resolvido
+CH0033,Vazamento de água no banheiro do bloco B - registro de atendimento 33,Manutenção,Alta,21,0,imagem,Em análise
+CH0034,Tomada soltando faíscas no laboratório,Manutenção,Crítica,8,2,imagem,Resolvido
+CH0035,Tomada soltando faíscas no laboratório - local: bloco A,Manutenção,Crítica,8,2,voz,Aberto
+CH0036,Tomada soltando faíscas no laboratório - registro de atendimento 36,Manutenção,Crítica,18,0,imagem,Em análise
+CH0037,Porta da sala não fecha corretamente,Manutenção,Média,14,1,imagem,Aberto
+CH0038,Porta da sala não fecha corretamente - local: campus central,Manutenção,Média,14,1,texto,Resolvido
+CH0039,Porta da sala não fecha corretamente - registro de atendimento 39,Manutenção,Média,10,0,imagem,Resolvido
+CH0040,Elevador parou com pessoas presas,Manutenção,Crítica,18,0,texto,Resolvido
+CH0041,Elevador parou com pessoas presas - local: bloco B,Manutenção,Crítica,14,1,texto,Aberto
+CH0042,Elevador parou com pessoas presas - registro de atendimento 42,Manutenção,Crítica,21,0,texto,Em análise
+CH0043,Projetor com cabo de alimentação solto,Manutenção,Média,18,0,imagem,Aberto
+CH0044,Projetor com cabo de alimentação solto - local: sala 204,Manutenção,Média,10,3,imagem,Aberto
+CH0045,Projetor com cabo de alimentação solto - registro de atendimento 45,Manutenção,Média,14,3,texto,Em análise
+CH0046,Falta energia em uma sala durante atividade agendada,Manutenção,Alta,10,2,voz,Em análise
+CH0047,Falta energia em uma sala durante atividade agendada - local: laboratório 3,Manutenção,Alta,14,3,imagem,Resolvido
+CH0048,Falta energia em uma sala durante atividade agendada - registro de atendimento 48,Manutenção,Alta,8,1,texto,Aberto
+CH0049,Preciso solicitar declaração de matrícula,Secretaria,Baixa,14,0,imagem,Em análise
+CH0050,Preciso solicitar declaração de matrícula - local: bloco A,Secretaria,Baixa,10,1,texto,Aberto
+CH0051,Preciso solicitar declaração de matrícula - registro de atendimento 51,Secretaria,Baixa,8,1,texto,Aberto
+CH0052,Histórico escolar não aparece no portal,Secretaria,Média,14,0,imagem,Aberto
+CH0053,Histórico escolar não aparece no portal - local: campus central,Secretaria,Média,14,3,texto,Em análise
+CH0054,Histórico escolar não aparece no portal - registro de atendimento 54,Secretaria,Média,10,3,texto,Resolvido
+CH0055,Prazo de rematrícula termina hoje e sistema não aceita pedido,Secretaria,Alta,18,1,texto,Aberto
+CH0056,Prazo de rematrícula termina hoje e sistema não aceita pedido - local: bloco B,Secretaria,Alta,18,2,voz,Resolvido
+CH0057,Prazo de rematrícula termina hoje e sistema não aceita pedido - registro de atendimento 57,Secretaria,Alta,18,0,imagem,Em análise
+CH0058,Cobrança duplicada no boleto da mensalidade,Secretaria,Média,8,0,voz,Em análise
+CH0059,Cobrança duplicada no boleto da mensalidade - local: sala 204,Secretaria,Média,14,0,texto,Aberto
+CH0060,Cobrança duplicada no boleto da mensalidade - registro de atendimento 60,Secretaria,Média,10,3,texto,Resolvido
+CH0061,Não recebi comprovante de pagamento,Secretaria,Baixa,10,2,voz,Aberto
+CH0062,Não recebi comprovante de pagamento - local: laboratório 3,Secretaria,Baixa,8,3,imagem,Aberto
+CH0063,Não recebi comprovante de pagamento - registro de atendimento 63,Secretaria,Baixa,8,0,texto,Aberto
+CH0064,Documento exigido para colação de grau está bloqueado,Secretaria,Alta,10,3,voz,Resolvido
+CH0065,Documento exigido para colação de grau está bloqueado - local: bloco A,Secretaria,Alta,10,3,texto,Aberto
+CH0066,Documento exigido para colação de grau está bloqueado - registro de atendimento 66,Secretaria,Alta,18,0,voz,Resolvido
+CH0067,Cadastro do aluno está com nome incorreto,Secretaria,Média,18,2,voz,Em análise
+CH0068,Cadastro do aluno está com nome incorreto - local: campus central,Secretaria,Média,21,3,texto,Aberto
+CH0069,Cadastro do aluno está com nome incorreto - registro de atendimento 69,Secretaria,Média,14,1,texto,Em análise
+CH0070,Não encontro a data de emissão do certificado,Secretaria,Baixa,21,0,imagem,Resolvido
+CH0071,Não encontro a data de emissão do certificado - local: bloco B,Secretaria,Baixa,8,0,imagem,Resolvido
+CH0072,Não encontro a data de emissão do certificado - registro de atendimento 72,Secretaria,Baixa,21,1,texto,Em análise
+CH0073,Quero renovar empréstimo de livro,Biblioteca,Baixa,8,1,texto,Em análise
+CH0074,Quero renovar empréstimo de livro - local: sala 204,Biblioteca,Baixa,8,1,voz,Aberto
+CH0075,Quero renovar empréstimo de livro - registro de atendimento 75,Biblioteca,Baixa,21,1,imagem,Em análise
+CH0076,Livro reservado não aparece no sistema,Biblioteca,Média,8,0,voz,Em análise
+CH0077,Livro reservado não aparece no sistema - local: laboratório 3,Biblioteca,Média,21,2,voz,Aberto
+CH0078,Livro reservado não aparece no sistema - registro de atendimento 78,Biblioteca,Média,14,1,voz,Resolvido
+CH0079,Sistema de empréstimo está indisponível para toda a biblioteca,Biblioteca,Alta,10,2,voz,Resolvido
+CH0080,Sistema de empréstimo está indisponível para toda a biblioteca - local: bloco A,Biblioteca,Alta,8,0,voz,Em análise
+CH0081,Sistema de empréstimo está indisponível para toda a biblioteca - registro de atendimento 81,Biblioteca,Alta,21,0,texto,Em análise
+CH0082,Alarme de incêndio disparou na biblioteca,Biblioteca,Crítica,10,2,texto,Resolvido
+CH0083,Alarme de incêndio disparou na biblioteca - local: campus central,Biblioteca,Crítica,8,1,voz,Resolvido
+CH0084,Alarme de incêndio disparou na biblioteca - registro de atendimento 84,Biblioteca,Crítica,10,3,imagem,Em análise
+CH0085,Preciso consultar horário de funcionamento,Biblioteca,Baixa,14,0,imagem,Em análise
+CH0086,Preciso consultar horário de funcionamento - local: bloco B,Biblioteca,Baixa,14,0,texto,Resolvido
+CH0087,Preciso consultar horário de funcionamento - registro de atendimento 87,Biblioteca,Baixa,8,0,imagem,Em análise
+CH0088,Livro devolvido continua marcado como pendente,Biblioteca,Média,10,2,voz,Em análise
+CH0089,Livro devolvido continua marcado como pendente - local: sala 204,Biblioteca,Média,10,2,texto,Em análise
+CH0090,Livro devolvido continua marcado como pendente - registro de atendimento 90,Biblioteca,Média,14,3,voz,Aberto
+CH0091,Terminal de autoatendimento está desligado,Biblioteca,Baixa,8,3,voz,Aberto
+CH0092,Terminal de autoatendimento está desligado - local: laboratório 3,Biblioteca,Baixa,8,2,texto,Em análise
+CH0093,Terminal de autoatendimento está desligado - registro de atendimento 93,Biblioteca,Baixa,14,1,imagem,Resolvido
+CH0094,Acervo digital inacessível durante avaliação,Biblioteca,Alta,21,3,imagem,Aberto
+CH0095,Acervo digital inacessível durante avaliação - local: bloco A,Biblioteca,Alta,8,0,imagem,Aberto
+CH0096,Acervo digital inacessível durante avaliação - registro de atendimento 96,Biblioteca,Alta,21,0,voz,Em análise
+CH0097,Pessoa desconhecida tentando entrar sem identificação,Segurança,Alta,21,1,voz,Aberto
+CH0098,Pessoa desconhecida tentando entrar sem identificação - local: campus central,Segurança,Alta,8,2,voz,Aberto
+CH0099,Pessoa desconhecida tentando entrar sem identificação - registro de atendimento 99,Segurança,Alta,14,1,imagem,Aberto
+CH0100,Alarme de incêndio disparou no laboratório,Segurança,Crítica,8,2,imagem,Resolvido
+CH0101,Alarme de incêndio disparou no laboratório - local: bloco B,Segurança,Crítica,21,1,texto,Aberto
+CH0102,Alarme de incêndio disparou no laboratório - registro de atendimento 102,Segurança,Crítica,10,3,texto,Aberto
+CH0103,Portão lateral ficou aberto fora do horário,Segurança,Alta,14,3,imagem,Em análise
+CH0104,Portão lateral ficou aberto fora do horário - local: sala 204,Segurança,Alta,10,2,texto,Em análise
+CH0105,Portão lateral ficou aberto fora do horário - registro de atendimento 105,Segurança,Alta,8,3,texto,Resolvido
+CH0106,Solicitação de orientação sobre achados e perdidos,Segurança,Baixa,10,1,voz,Resolvido
+CH0107,Solicitação de orientação sobre achados e perdidos - local: laboratório 3,Segurança,Baixa,14,1,texto,Aberto
+CH0108,Solicitação de orientação sobre achados e perdidos - registro de atendimento 108,Segurança,Baixa,10,3,voz,Resolvido
+CH0109,Iluminação externa insuficiente no estacionamento,Segurança,Média,8,2,voz,Em análise
+CH0110,Iluminação externa insuficiente no estacionamento - local: bloco A,Segurança,Média,21,3,imagem,Em análise
+CH0111,Iluminação externa insuficiente no estacionamento - registro de atendimento 111,Segurança,Média,14,0,texto,Resolvido
+CH0112,Cheiro forte de fumaça no corredor,Segurança,Crítica,10,2,texto,Aberto
+CH0113,Cheiro forte de fumaça no corredor - local: campus central,Segurança,Crítica,21,3,voz,Em análise
+CH0114,Cheiro forte de fumaça no corredor - registro de atendimento 114,Segurança,Crítica,14,3,imagem,Em análise
+CH0115,Visitante precisa de autorização de entrada,Segurança,Baixa,8,3,imagem,Aberto
+CH0116,Visitante precisa de autorização de entrada - local: bloco B,Segurança,Baixa,14,0,imagem,Resolvido
+CH0117,Visitante precisa de autorização de entrada - registro de atendimento 117,Segurança,Baixa,8,1,voz,Resolvido
+CH0118,Saída de emergência está obstruída,Segurança,Crítica,8,2,imagem,Resolvido
+CH0119,Saída de emergência está obstruída - local: sala 204,Segurança,Crítica,8,2,imagem,Resolvido
+CH0120,Saída de emergência está obstruída - registro de atendimento 120,Segurança,Crítica,18,2,voz,Em análise
+CH0121,Quero agendar conversa sobre disciplinas optativas,Coordenação,Baixa,14,1,texto,Resolvido
+CH0122,Quero agendar conversa sobre disciplinas optativas - local: laboratório 3,Coordenação,Baixa,18,1,imagem,Em análise
+CH0123,Quero agendar conversa sobre disciplinas optativas - registro de atendimento 123,Coordenação,Baixa,14,3,imagem,Aberto
+CH0124,Horário das aulas está incorreto no sistema,Coordenação,Média,14,2,texto,Resolvido
+CH0125,Horário das aulas está incorreto no sistema - local: bloco A,Coordenação,Média,21,2,voz,Resolvido
+CH0126,Horário das aulas está incorreto no sistema - registro de atendimento 126,Coordenação,Média,18,1,imagem,Resolvido
+CH0127,Professor faltou e turma precisa de orientação para prova hoje,Coordenação,Alta,10,0,voz,Em análise
+CH0128,Professor faltou e turma precisa de orientação para prova hoje - local: campus central,Coordenação,Alta,21,2,texto,Aberto
+CH0129,Professor faltou e turma precisa de orientação para prova hoje - registro de atendimento 129,Coordenação,Alta,14,1,texto,Aberto
+CH0130,Dúvida sobre equivalência de disciplina,Coordenação,Baixa,8,0,texto,Resolvido
+CH0131,Dúvida sobre equivalência de disciplina - local: bloco B,Coordenação,Baixa,21,0,voz,Resolvido
+CH0132,Dúvida sobre equivalência de disciplina - registro de atendimento 132,Coordenação,Baixa,21,1,imagem,Em análise
+CH0133,Conflito de horário entre provas obrigatórias,Coordenação,Alta,18,3,voz,Aberto
+CH0134,Conflito de horário entre provas obrigatórias - local: sala 204,Coordenação,Alta,10,0,texto,Resolvido
+CH0135,Conflito de horário entre provas obrigatórias - registro de atendimento 135,Coordenação,Alta,10,1,imagem,Em análise
+CH0136,Solicitação de revisão da grade curricular,Coordenação,Média,18,0,imagem,Aberto
+CH0137,Solicitação de revisão da grade curricular - local: laboratório 3,Coordenação,Média,8,3,texto,Resolvido
+CH0138,Solicitação de revisão da grade curricular - registro de atendimento 138,Coordenação,Média,21,2,voz,Em análise
+CH0139,Preciso saber regras para estágio supervisionado,Coordenação,Baixa,21,3,imagem,Resolvido
+CH0140,Preciso saber regras para estágio supervisionado - local: bloco A,Coordenação,Baixa,10,3,voz,Resolvido
+CH0141,Preciso saber regras para estágio supervisionado - registro de atendimento 141,Coordenação,Baixa,10,2,imagem,Resolvido
+CH0142,Mudança de sala foi comunicada em cima da hora,Coordenação,Média,10,2,voz,Aberto
+CH0143,Mudança de sala foi comunicada em cima da hora - local: campus central,Coordenação,Média,14,1,voz,Resolvido
+CH0144,Mudança de sala foi comunicada em cima da hora - registro de atendimento 144,Coordenação,Média,14,0,texto,Aberto
